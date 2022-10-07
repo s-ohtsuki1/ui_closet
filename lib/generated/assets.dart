@@ -3,4 +3,5 @@ class Assets {
   Assets._();
 
   static const String imagesBitmap = 'assets/images/Bitmap.png';
+  static const String imageMainPageBg = 'assets/images/main_page_bg.png';
 }
